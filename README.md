@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 015eac96f1e639b77efa7370ee01bc7b3fc9c0c7
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +70,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<<<<<<< HEAD
+=======
+
+# instagram-clone-frontend
+Clone of instagram app.
+>>>>>>> 015eac96f1e639b77efa7370ee01bc7b3fc9c0c7
