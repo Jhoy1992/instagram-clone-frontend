@@ -3,7 +3,35 @@ import React, { Component } from 'react';
 class New extends Component {
     render() {
         return (
-            <h1>New</h1>
+            <form action="" id="new-post">
+                <input type="file" />
+
+                <input 
+                    type="text"
+                    name="author"
+                    placeholder="Autor do post"
+                />
+
+                <input 
+                    type="text"
+                    name="place"
+                    placeholder="Local do post"
+                />
+
+                <input 
+                    type="text"
+                    name="description"
+                    placeholder="Descrição do post"
+                />
+
+                <input 
+                    type="text"
+                    name="hashtags"
+                    placeholder="Hashtags do post"
+                />
+
+                <button>Enviar</button>
+            </form>            
         )
     };
 }
